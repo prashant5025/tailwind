@@ -1,11 +1,12 @@
-import Card from "./Card";
-
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
 function App() {
+
+
   return (
-    <div className="App">
-      <Card />
-      <Card />
-      <Card />
+    <div className='bg-slate-800'>
+      <Navbar />
+      <Hero />
     </div>
   );
 }
