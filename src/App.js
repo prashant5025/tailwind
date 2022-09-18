@@ -4,7 +4,7 @@ function App() {
 
 
   return (
-    <div className='bg-slate-800'>
+    <div className='bg-slate-900'>
       <Navbar />
       <Hero />
     </div>
