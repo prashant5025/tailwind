@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <div className="bg-slate-900 flex justify-between items-center h-24  mx-auto my-auto px-4 text-white lead">
       <div className="">
-        <a className="text-2xl ml-12" href="#">
+        <a className="text-2xl " href="#">
           <span className="text-red-600 font-bold">RENO</span>LITION
         </a>
       </div>
