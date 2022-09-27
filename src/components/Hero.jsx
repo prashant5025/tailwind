@@ -16,6 +16,15 @@ const Hero = () => {
           <button className="py-3 px-4 mt-4">Get Started</button>
         </div>
 
+        <div className="hidden  md:flex gap-1 relative">
+          <div className="block m-0 p-0">
+            <img className="h-[350px] w-[250px] object-cover rounded-tr-2xl absolute bottom-0 left-0 border-slate-900 border-[8px] block" src={Img1} alt="/" />
+          </div>
+          <div>
+            <img className="h-[650px] w-[650px] object-cover rounded-2xl " src={Img2} alt="/" />
+          </div>
+        </div>
+
       </div>
     </div>
   );

@@ -5,7 +5,7 @@
 
 @layer base{
     button{
-        @apply text-white border bg-red-600
+        @apply text-white border bg-red-600 font-bold
         hover:bg-transparent hover:text-red-600 rounded-md
     }
 }
