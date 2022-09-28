@@ -5,7 +5,7 @@ import {FaBath} from 'react-icons/fa'
 const About = () => {
   return (
     <>
-        <div className='flex flex-col w-full h-[1240px] bg-white'>
+        <div className='w-full h-[2040px] sm:h-[1440px] lg:h-[1240px] bg-white'>
           <div className='mt-[100px] mb-8 '>
             <h6 className='font-mono text-lg font-bold text-yellow-500 text-center'>Queck Search</h6>
           </div>

@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="w-full h-[1240px] bg-slate-900 flex flex-col justify-between text-white">
       <div className="grid md:grid-cols-2 max-w-[1240px] m-auto gap-[8rem]">
-        <div className="flex flex-col justify-center md:items-start w-full px-2 py-8 mr-4">
+        <div className="flex flex-col  md:items-start w-full px-2 py-8 mr-4">
           <p className="text-5xl md:text-6xl font-bold">
             Find Construction
           </p>
